@@ -1,28 +1,114 @@
 <h1 align="center">Hi 👋, I'm Agam Kumar Singh</h1>
 <h3 align="center">Software Engineer | Student | Always Learning, Always Coding</h3>
-<img align="right" alt="Coding" width ="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agam-kumar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="agam-kumar-singh" /> </p>
 
-- 🔭 I’m currently pursuing my Masters **at MNIT Jaipur**
+<br>
 
-- 🌱 I’m currently specializing in **Computer Science and Information Security**
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Agam-Kumar-Singh">here</a>
-- 📄 I have six months experience as SDE intern .
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=agam-kumar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="agam-kumar-singh" />
+</p>
+
+<br>
+
+- 🔭 I’m currently pursuing my Masters **at MNIT Jaipur**  
+- 🌱 I’m currently specializing in **Computer Science and Information Security**  
+- 👨‍💻 All of my projects are available <a href="https://github.com/Agam-Kumar-Singh">here</a>  
+- 📄 I have six months experience as an **SDE intern**.  
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/agam-kumar-singh-353811203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agam-kumar-singh-353811203" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/agamsingh1408201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agamsingh1408201" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/AKS_lucifer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agamsingh14082000" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/agamsingh14082000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agamsingh14082000" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/agam-kumar-singh-353811203" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/agamsingh1408201" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/AKS_lucifer/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/agamsingh14082000" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+    </a>
 </p>
 
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agam-kumar-singh&show_icons=true&locale=en&layout=compact" alt="agam-kumar-singh" /></p>
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agam-kumar-singh&show_icons=true&locale=en" alt="agam-kumar-singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agam-kumar-singh&" alt="agam-kumar-singh" /></p>
+<br>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agam-kumar-singh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<br><br><br><br> <!-- Extra spacing to separate sections -->
+
+<p>
+    <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agam-kumar-singh&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agam-kumar-singh&" alt="GitHub Streak" /></p>
+-->
+
