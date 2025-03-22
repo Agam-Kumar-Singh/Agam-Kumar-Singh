@@ -26,12 +26,12 @@
     <a href="https://www.hackerrank.com/agamsingh1408201" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/u/AKS_lucifer/" target="_blank">
+<!--     <a href="https://leetcode.com/u/AKS_lucifer/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/agamsingh14082000" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
-    </a>
+    </a> -->
 </p>
 
 <br>
