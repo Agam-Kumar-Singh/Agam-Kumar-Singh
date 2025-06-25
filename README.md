@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently pursuing my Masters **at MNIT Jaipur**  
 - 🌱 I’m currently specializing in **Computer Science and Information Security**  
-- 👨‍💻 All of my projects are available <a href="https://github.com/Agam-Kumar-Singh">here</a>  
+- 👨‍💻 All of my projects are available <a href="https://github.com/Agam-Kumar-Singh?tab=repositories">here</a>  
 - 📄 I have six months experience as an **SDE intern**.  
 
 <br>
